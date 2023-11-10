@@ -1,0 +1,31 @@
+#intregação2 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.vermelha {
+    color: rgb(198, 183, 212);
+    background-color: darkblue;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .azul {
+    background-color: rgb(236, 21, 21);
+    color: rgb(43, 43, 206);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .branca {
+    background-color: rgb(12, 14, 10);
+    color: beige;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
